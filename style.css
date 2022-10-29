@@ -28,7 +28,7 @@
 
 }
 
-.section__title{
+.section__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -59,7 +59,8 @@
   color: #3a3A3a;
 }
 
-.section__edit-task, .section__new-task{
+.section__edit-task,
+.section__new-task {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -89,12 +90,12 @@
   align-items: center;
 }
 
-.section__tasks{
+.section__tasks {
   margin:0;
   padding: 0px;
 }
 
-.section__task{
+.section__task {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
@@ -102,12 +103,12 @@
   outline: none;
 }
 
-.section__new-task{
+.section__new-task {
   width: 440px;
   display: block;
 }
 
-.section__current-task{
+.section__current-task {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
