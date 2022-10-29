@@ -132,7 +132,7 @@
 
 .section__completed-task{
   text-decoration: line-through;
-  color: #888
+  color: #888;
 }
 
 .show__task-input {
